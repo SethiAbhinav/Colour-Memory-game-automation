@@ -20,7 +20,7 @@ import keyboard
 import time,win32api,win32con
 ```
 
-**Game url:** https://www.coolmathgames.com/0-color-memory#immersiveModa
+**Game url:** https://www.coolmathgames.com/0-color-memory#immersiveModal
 
 # How the game works:
 This is a memory game wherein you have to remember the sequence of colours shown to you by the game. You have to repeat the pattern once the sequence is over.
